@@ -30,7 +30,7 @@ Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encant
 - Prácticas TDD, XP, y quieres enseñarnos
 - El desarrollo front no es un misterio para ti, React, Angular o Vue.js están en tu toolchain
 
-Ya sabes lo que pedimos. Ahora toca contarte lo que ofrecemos mas allá de lo que ya has leído:
+Ya sabes lo que buscamos. Ahora toca contarte lo que ofrecemos mas allá de lo que ya has leído:
 
 - Ambiente exigente y de reto continuo
 - Innovación y creación de nuevos negocios
