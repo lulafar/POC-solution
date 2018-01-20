@@ -6,12 +6,13 @@
 
 ¿Tienes la vision de que los **smart contracts, blockchain,... es una meta-tecnologia**, que **tiene un potencial enorme**, y aplicabilidad real, dadas todas sus cualidades?
 
-¿Estas buscando un proyecto donde poder aportar todo tu potencial, crear equipo donde todos cuentan,  donde el feedback es continuo,  en el cual puedes formar parte de una **cultura basada en principios y valores**, buenas prácticas, **mejora continua**, aportando todos tus conocimientos y valia?
+¿Estas buscando un proyecto donde poder aportar todo tu potencial, crear equipo donde todos cuentan,  donde el feedback es continuo,  en el cual puedes formar parte de una **cultura basada en principios y valores**,   buenas prácticas, **mejora continua** (lean, agile), aportando todos tus conocimientos y valóa?
 
-¿Eres de los que no se guían por el hype, y **buscas la tecnología que mejor encaje a la necesidad de negocio**? ¿Crees que entender e implicarte en el negocio, definiendo un lenguaje ubiquio que todos entendamos, explorando el dominio juntos en detalle, es la base para poder desarrollar la necesidades reales del negocio?
+¿Eres de los que no se guían por el hype, y **buscas la tecnología que mejor encaje a la necesidad de negocio**? ¿Crees que entender e implicarte en el negocio, definiendo un lenguaje ubiquo que todos entendamos, explorando el dominio juntos en detalle, es la base para poder desarrollar la necesidades reales del negocio?
 
-¿Sabes buscar, tienes, el balance adecuado entre negocio y tecnología a la hora de afrontar las soluciones?¿Monolito para ti no es algo negativo, si las responsabilidades,  y los conceptos están claramente divididos?
+¿Sabes buscar, tienes, el equilibrio adecuado entre negocio y tecnología a la hora de afrontar las soluciones?¿Monolito para ti no es algo negativo, si las responsabilidades,  y los conceptos están claramente divididos?
 ¿Entiendes que es un MVP, prototipo, y sabes tomar decisiones técnicas en su debido momento cuando tengas la información necesaria? ¿No usas un bola de cristal, si no tus propias heurísticas, y sabes vivir con incertidumbre?
+¿Buscas la simplicidad,  el arte de maximizar la cantidad de trabajo no realizado y la atención continua a la excelencia técnica y al buen diseño?
 
 ¿Te vienes arriba ante los retos, coges las riendas de los problemas y los conviertes en oportunidades, y te superas dia a dia para poder afrontar nuevas batallas?
 
@@ -21,14 +22,14 @@ Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encant
 
  - No te preocupes si no sabes de Blockchain. Te enseñamos lo que sabemos y aprenderemos juntos.  Si ya tienes conocimientos, será un plus. Ethereum, Quorum o Hyperledger, será nuestra base
  - Mínimo 7 años de experiencia en desarrollo en tecnologías Backend. Cuáles? Go, Java, Scala, Groovy principalmente. Otras tambien son bienvenidas
- - Experiencia en diseño y desarrollo de arquitecturas, complejas, integración de sistemas
+ - Experiencia en diseño y desarrollo de arquitecturas complejas, integración de sistemas
  -Nos interesa mucho tu conocimiento y más aún tu capacidad.. Tecnologías hay miles... tu manera de afrontarlas sera lo que nos ayude a conseguir nuestra metas. Buscamos el balance ideal entre aptitud y actitud
  
  Los anteriores son los requirimientos base y suficientes. Si además. nos traes a bordo algunos de los que se citan a continuación, nos vendría genial:
 
 - Experiencia en desarrollo de microservicios 
 - Pasión por la automatizacióm
-- Docker es tu amigo
+- Tienes interés o experiencia en infraestructura programable o infrastructure as a code, contenedores ...
 - Has trabajado en el sector fintech, regulatorio o similares
 - Experiencia en Big Data, Machine Learning
 - Tienes interés en o prácticas DDD
