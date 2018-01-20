@@ -31,7 +31,7 @@ Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encant
 - EDA no te suena solo a queso
 - Hexagonal es un patrón importante para ti
 - Tienes interés en o prácticas DDD
-- Prácticas TDD, XP, y quieres enseñarnos
+- Practicas TDD, XP, y quieres enseñarnos
 - El desarrollo front no es un misterio para ti, React, Angular o Vue.js están en tu toolchain
 - ERC-20, ERC-777, POS, POW, Casper sabes que no es de star wars etc
 
