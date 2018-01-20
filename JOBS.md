@@ -10,6 +10,9 @@
 
 ¿Eres de los que no se guían por el hype, y **buscas la tecnología que mejor encaje a la necesidad de negocio**? ¿Crees que entender e implicarte en el negocio, definiendo un lenguaje ubiquio que todos entendamos, explorando el dominio juntos en detalle, es la base para poder desarrollar la necesidades reales del negocio?
 
+¿Sabes buscar, tienes, el balance adecuado entre negocio y tecnología a la hora de afrontar las soluciones?¿Monolito para ti no es algo negativo, si las responsabilidades,  y los conceptos están claramente divididos?
+¿Entiendes que es un MVP, prototipo, y sabes tomar decisiones técnicas en su debido momento cuando tengas la información necesaria? ¿No usas un bola de cristal, si no tus propias heurísticas, y sabes vivir con incertidumbre?
+
 ¿Te vienes arriba ante los retos, coges las riendas de los problemas y los conviertes en oportunidades, y te superas dia a dia para poder afrontar nuevas batallas?
 
 ¿Estas convencido de que ser poliglota a nivel de lenguajes de desarrollo, abarcar varios stacks tecnológicos, para poder afrontar variedad de necesidades, es clave para los tiempos en los que nos movemos?
