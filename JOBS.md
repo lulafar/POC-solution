@@ -29,32 +29,31 @@ Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encant
 - Has trabajado en el sector fintech, regulatorio o similares
 - Experiencia en Big Data, Machine Learning
 - EDA no te suena solo a queso
-- Hexagonal es un patron clave para ti
+- Hexagonal es un patrón clave para ti
 - Tienes interés en o prácticas DDD
 - Prácticas TDD, XP, y quieres enseñarnos
 - El desarrollo front no es un misterio para ti, React, Angular o Vue.js están en tu toolchain
-- ERC-20, ERC-777, POS, POW, Casper no te suena solo a star wars, pelis o videojuegos
+- ERC-20, ERC-777, POS, POW, Casper sabes que no es de star wars etc
 
-Ya sabes lo que buscamos. Ahora toca contarte lo que ofrecemos mas allá de lo que ya has leído:
+Ya sabes lo que buscamos. Esto es lo que te ofrecemos:
 
 - Ambiente exigente y de reto continuo
 - Innovación y creación de nuevos negocios
 - Flexibilidad horaria. Lo importante es cumplir los objetivos. 
-- Teletrabajo . Hay que cumplir retos trabajando en equipo. El equilibrio   y la coordinación sera el éxito
-- Beneficios sociales: Ticket Restaurant, Seguro Médico, y algunos +
+- Teletrabajo. Hay que cumplir retos trabajando en equipo. El equilibrio y la coordinación serán la base el éxito
+- Beneficios sociales: Ticket Restaurant, Seguro Médico, y otros
 - Salario Bruto: 40 - 55K ( según valía ) 
 - Plan de incentivos ( según perfil )
-- 2 Dias + presupuesto para asistir a conferencias
-- 22 dias laborables de vacaciones
+- 2 días + presupuesto para asistir a conferencias
+- 22 días laborables de vacaciones
 
-Para terminar te contamos quienes somos y cual es nuestra mision
+Para terminar te contamos quienes somos y cual es nuestra misión
 
 [TODO]
 
 
 
-Si después de leer todo esto, estas interesado en la oferta, mándanos un email jobs@iobuilders.io , indicándonos que te gusta de nuestro proyecto y porque quieres formar parte. No se te olvide adjuntar tu CV y todo aquella información que consideres que nos interese saber de ti.
-Si conoces a alguien que encaje, pasalé la oferta. Te estaremos muy agradecidos.
+Si estas interesado en la oferta, mándanos un email jobs@iobuilders.io , indicándonos que te gusta de nuestro proyecto y porque quieres formar parte. Adjunta tu CV y todo lo que consideres que puede ser interesante sobre tí
  
  
 
