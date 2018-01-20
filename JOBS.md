@@ -24,7 +24,7 @@ Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encant
  - Experiencia en diseño y desarrollo de arquitecturas, complejas, integración de sistemas
  -Nos interesa mucho tu conocimiento y más aún tu capacidad.. Tecnologías hay miles... tu manera de afrontarlas sera lo que nos ayude a conseguir nuestra metas. Buscamos el balance ideal entre aptitud y actitud
  
- Los anteriores son los requirimientos base y suficientes. Si además. nos traes a bordo varios de los que se citan a continuación, eres el compañero perfecto:
+ Los anteriores son los requirimientos base y suficientes. Si además. nos traes a bordo algunos de los que se citan a continuación, nos vendría genial:
 
 - Experiencia en desarrollo de microservicios 
 - Has utilizado herramientas como terraform (+) , o similares( ansible, cloudformation, puppet,..)
@@ -40,6 +40,7 @@ Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encant
 
 Ya sabes lo que buscamos. Esto es lo que te ofrecemos:
 
+- Trabajar en Madrid
 - Ambiente exigente y de reto continuo
 - Innovación y creación de nuevos negocios
 - Flexibilidad horaria. Lo importante es cumplir los objetivos. 
@@ -49,6 +50,7 @@ Ya sabes lo que buscamos. Esto es lo que te ofrecemos:
 - Plan de incentivos ( según perfil )
 - 2 días + presupuesto para asistir a conferencias
 - 22 días laborables de vacaciones
+
 
 Para terminar te contamos quiénes somos y cual es nuestra misión
 
