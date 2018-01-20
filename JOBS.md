@@ -12,7 +12,7 @@ Eres de los que no se guían por el hype, y **buscas la tecnología que mejor en
 
 Te vienes arriba ante los retos, coges las riendas de los problemas y los conviertes en oportunidades, y te superas dia a dia para poder afrontar nuevas batallas?
 
-Estas convencido de que ser poliglota a nivel de lenguajes de desarrollo, abarcar varios stacks tecnológicos, para poder afrontar variedad de necesidades es clave para los tiempos en los que nos movemos?
+Estas convencido de que ser poliglota a nivel de lenguajes de desarrollo, abarcar varios stacks tecnológicos, para poder afrontar variedad de necesidades, es clave para los tiempos en los que nos movemos?
 
 Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encantados de que formes parte de nuestro equipo . Cuáles son los skills que buscamos para forjar nuestro equipo?
 
@@ -29,7 +29,7 @@ Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encant
 - Has trabajado en el sector fintech, regulatorio o similares
 - Experiencia en Big Data, Machine Learning
 - EDA no te suena solo a queso
-- Hexagonal es un patrón clave para ti
+- Hexagonal es un patrón importante para ti
 - Tienes interés en o prácticas DDD
 - Prácticas TDD, XP, y quieres enseñarnos
 - El desarrollo front no es un misterio para ti, React, Angular o Vue.js están en tu toolchain
@@ -47,7 +47,7 @@ Ya sabes lo que buscamos. Esto es lo que te ofrecemos:
 - 2 días + presupuesto para asistir a conferencias
 - 22 días laborables de vacaciones
 
-Para terminar te contamos quienes somos y cual es nuestra misión
+Para terminar te contamos quiénes somos y cual es nuestra misión
 
 [TODO]
 
