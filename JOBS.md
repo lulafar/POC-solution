@@ -1,4 +1,4 @@
-# IoBuilders Is Hiring
+# IoBuilders Is Hiring! Senior Software Engineer (Blockchain, Backend and more)
 
 Quieres formar parte de un **equipo de nueva creación**, que a través de **blockchain** intentará **resolver necesidades de negocio reales**, revolucionando los distintos mercados implicados?
 
@@ -22,6 +22,8 @@ Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encant
  Estos son los básicos, pero si nos traes a bordo varios de los que se citan a continuación, eres el compañero perfecto:
 
 - Experiencia en desarrollo de microservicios 
+- Has utilizado herramientas como terraform (+) , o similares( ansible, cloudformation, puppet,..)
+- Docker es tu amigo
 - Has trabajado en el sector fintech, regulatorio o similares
 - Experiencia en Big Data, Machine Learning
 - EDA no te suena solo a queso
