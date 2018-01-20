@@ -21,7 +21,7 @@ Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encant
  - Experiencia en diseño y desarrollo de arquitecturas, complejas, integración de sistemas
  -Nos interesa mucho tu conocimiento y más aún tu capacidad.. Tecnologías hay miles... tu manera de afrontarlas sera lo que nos ayude a conseguir nuestra metas. Buscamos el balance ideal entre aptitud y actitud
  
- Estos son los básicos, pero si nos traes a bordo varios de los que se citan a continuación, eres el compañero perfecto:
+ Los anteriores son los requirimientos base y suficientes. Si además. nos traes a bordo varios de los que se citan a continuación, eres el compañero perfecto:
 
 - Experiencia en desarrollo de microservicios 
 - Has utilizado herramientas como terraform (+) , o similares( ansible, cloudformation, puppet,..)
