@@ -29,6 +29,7 @@ Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encant
 - Tienes interés en o prácticas DDD
 - Prácticas TDD, XP, y quieres enseñarnos
 - El desarrollo front no es un misterio para ti, React, Angular o Vue.js están en tu toolchain
+- ERC-20, ERC-777, POS, POW, Casper no te suena solo a star wars, pelis o videojuegos
 
 Ya sabes lo que buscamos. Ahora toca contarte lo que ofrecemos mas allá de lo que ya has leído:
 
