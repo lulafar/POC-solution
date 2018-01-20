@@ -2,7 +2,7 @@
 
 ## (Backend) Senior Software Engineer 
 
-Quieres formar parte de un **equipo de nueva creación**, que a través de **blockchain** va a  **resolver necesidades de negocio reales**, revolucionando los distintos mercados implicados?
+## Quieres formar parte de un **equipo de nueva creación**, que a través de **blockchain** va a  **resolver necesidades de negocio reales**, revolucionando los distintos mercados implicados?
 
 Tienes la vision de que los **smart contracts, blockchain,... es una meta-tecnologia**, que **tiene un potencial enorme**, y aplicabilidad real, dadas todas sus cualidades?
 
