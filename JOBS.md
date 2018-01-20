@@ -1,12 +1,12 @@
 # IoBuilders Is Hiring
 
-Quieres formar parte de un equipo de nueva creación, que a través de blockchain intentará resolver necesidades de negocio reales, revolucionando los distintos mercados implicados?
+Quieres formar parte de un **equipo de nueva creación**, que a través de **blockchain** intentará **resolver necesidades de negocio reales**, revolucionando los distintos mercados implicados?
 
-Tienes la vision de que los smart contracts, blockchain,... es una meta-tecnologia, que tiene un potencial enorme, y aplicabilidad real, dadas todas sus cualidades?
+Tienes la vision de que los **smart contracts, blockchain,... es una meta-tecnologia**, que **tiene un potencial enorme**, y aplicabilidad real, dadas todas sus cualidades?
 
-Estas buscando un proyecto donde poder aportar todo tu potencial, crear equipo donde todos cuentan,  donde el feedback es continuo,  en el cual puedes formar parte de una cultura basada en principios y valores, buenas prácticas, mejora continua, aportando tus conocimientos en XP, agile, principios SOLID ...?
+Estas buscando un proyecto donde poder aportar todo tu potencial, crear equipo donde todos cuentan,  donde el feedback es continuo,  en el cual puedes formar parte de una **cultura basada en principios y valores**, buenas prácticas, **mejora continua**, aportando tus conocimientos en XP, agile, principios SOLID ...?
 
-Eres de los que no se guían por el hype, y buscas la tecnología que mejor encaje a la necesidad de negocio? Crees que entender e implicarte en el negocio, definiendo un lenguaje ubiquio que todos entendamos, explorando el dominio juntos en detalle, es la base para poder desarrollar la necesidades reales del negocio?
+Eres de los que no se guían por el hype, y **buscas la tecnología que mejor encaje a la necesidad de negocio**? Crees que entender e implicarte en el negocio, definiendo un lenguaje ubiquio que todos entendamos, explorando el dominio juntos en detalle, es la base para poder desarrollar la necesidades reales del negocio?
 
 Te vienes arriba ante los retos, coges las riendas de los problemas y los conviertes en oportunidades, y te superas dia a dia para poder afrontar nuevas batallas?
 
