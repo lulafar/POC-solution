@@ -42,7 +42,7 @@ Ya sabes lo que buscamos. Esto es lo que te ofrecemos:
 - Flexibilidad horaria. Lo importante es cumplir los objetivos. 
 - Teletrabajo. Hay que cumplir retos trabajando en equipo. El equilibrio y la coordinación serán la base el éxito
 - Beneficios sociales: Ticket Restaurant, Seguro Médico, y otros
-- Salario Bruto: 40 - 55K ( según valía ) 
+- Salario Bruto: 40 - 60k ( según valía ) 
 - Plan de incentivos ( según perfil )
 - 2 días + presupuesto para asistir a conferencias
 - 22 días laborables de vacaciones
