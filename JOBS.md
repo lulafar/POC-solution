@@ -6,7 +6,7 @@
 
 ¿Tienes la vision de que los **smart contracts, blockchain,... es una meta-tecnologia**, que **tiene un potencial enorme**, y aplicabilidad real, dadas todas sus cualidades?
 
-¿Estas buscando un proyecto donde poder aportar todo tu potencial, crear equipo donde todos cuentan,  donde el feedback es continuo,  en el cual puedes formar parte de una **cultura basada en principios y valores**, buenas prácticas, **mejora continua**, aportando tus conocimientos en XP, agile, principios SOLID ...?
+¿Estas buscando un proyecto donde poder aportar todo tu potencial, crear equipo donde todos cuentan,  donde el feedback es continuo,  en el cual puedes formar parte de una **cultura basada en principios y valores**, buenas prácticas, **mejora continua**, aportando todos tus conocimientos y valia?
 
 ¿Eres de los que no se guían por el hype, y **buscas la tecnología que mejor encaje a la necesidad de negocio**? ¿Crees que entender e implicarte en el negocio, definiendo un lenguaje ubiquio que todos entendamos, explorando el dominio juntos en detalle, es la base para poder desarrollar la necesidades reales del negocio?
 
@@ -27,14 +27,11 @@ Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encant
  Los anteriores son los requirimientos base y suficientes. Si además. nos traes a bordo algunos de los que se citan a continuación, nos vendría genial:
 
 - Experiencia en desarrollo de microservicios 
-- Has utilizado herramientas como terraform (+) , o similares( ansible, cloudformation, puppet,..)
+- Pasión por la automatizacióm
 - Docker es tu amigo
 - Has trabajado en el sector fintech, regulatorio o similares
 - Experiencia en Big Data, Machine Learning
-- EDA no te suena solo a queso
-- Hexagonal es un patrón importante para ti
 - Tienes interés en o prácticas DDD
-- Practicas TDD, XP, y quieres enseñarnos
 - El desarrollo front no es un misterio para ti, React, Angular o Vue.js están en tu toolchain
 - ERC-20, ERC-777, POS, POW, Casper sabes que no es de star wars etc
 
