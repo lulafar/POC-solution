@@ -1,8 +1,8 @@
 # IoBuilders Is Hiring! 
 
-## Senior Software Engineer (Blockchain, Backend and more)
+## (Backend) Senior Software Engineer 
 
-Quieres formar parte de un **equipo de nueva creación**, que a través de **blockchain** intentará **resolver necesidades de negocio reales**, revolucionando los distintos mercados implicados?
+Quieres formar parte de un **equipo de nueva creación**, que a través de **blockchain** va a  **resolver necesidades de negocio reales**, revolucionando los distintos mercados implicados?
 
 Tienes la vision de que los **smart contracts, blockchain,... es una meta-tecnologia**, que **tiene un potencial enorme**, y aplicabilidad real, dadas todas sus cualidades?
 
@@ -14,12 +14,12 @@ Te vienes arriba ante los retos, coges las riendas de los problemas y los convie
 
 Estas convencido de que ser poliglota a nivel de lenguajes de desarrollo, abarcar varios stacks tecnológicos, para poder afrontar variedad de necesidades es clave para los tiempos en los que nos movemos?
 
-Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encantados de que formes parte de nuestro equipo .  Te estamos buscando. Cuales son los skills que buscamos para forjar nuestro equipo?
+Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encantados de que formes parte de nuestro equipo . Cuáles son los skills que buscamos para forjar nuestro equipo?
 
  - No te preocupes si no sabes de Blockchain. Te enseñamos lo que sabemos y aprenderemos juntos.  Si ya tienes conocimientos, será un plus. Ethereum, Quorum o Hyperledger, será nuestra base
  - Mínimo 7 años de experiencia en desarrollo en tecnologías Backend. Cuáles? Go, Java, Scala, Groovy principalmente. Otras tambien son bienvenidas
  - Experiencia en diseño y desarrollo de arquitecturas, complejas, integración de sistemas
- - Nos interesa más tu capacidad que tu conocimiento. Tecnologías hay miles... tu capacidad de afrontarlas sera lo que nos ayude a conseguir nuestra metas. Buscamos el balance ideal entre aptitud y actitud
+ -Nos interesa mucho tu conocimiento y más aún tu capacidad.. Tecnologías hay miles... tu manera de afrontarlas sera lo que nos ayude a conseguir nuestra metas. Buscamos el balance ideal entre aptitud y actitud
  
  Estos son los básicos, pero si nos traes a bordo varios de los que se citan a continuación, eres el compañero perfecto:
 
