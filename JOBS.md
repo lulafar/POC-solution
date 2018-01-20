@@ -8,13 +8,13 @@
 
 ¿Estas buscando un proyecto donde poder aportar todo tu potencial, crear equipo donde todos cuentan,  donde el feedback es continuo,  en el cual puedes formar parte de una **cultura basada en principios y valores**, buenas prácticas, **mejora continua**, aportando tus conocimientos en XP, agile, principios SOLID ...?
 
-¿Eres de los que no se guían por el hype, y **buscas la tecnología que mejor encaje a la necesidad de negocio**? Crees que entender e implicarte en el negocio, definiendo un lenguaje ubiquio que todos entendamos, explorando el dominio juntos en detalle, es la base para poder desarrollar la necesidades reales del negocio?
+¿Eres de los que no se guían por el hype, y **buscas la tecnología que mejor encaje a la necesidad de negocio**? ¿Crees que entender e implicarte en el negocio, definiendo un lenguaje ubiquio que todos entendamos, explorando el dominio juntos en detalle, es la base para poder desarrollar la necesidades reales del negocio?
 
 ¿Te vienes arriba ante los retos, coges las riendas de los problemas y los conviertes en oportunidades, y te superas dia a dia para poder afrontar nuevas batallas?
 
 ¿Estas convencido de que ser poliglota a nivel de lenguajes de desarrollo, abarcar varios stacks tecnológicos, para poder afrontar variedad de necesidades, es clave para los tiempos en los que nos movemos?
 
-Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encantados de que formes parte de nuestro equipo . Cuáles son los skills que buscamos para forjar nuestro equipo?
+Si al leer todas estas preguntas,  te has contestado que si,  estaríamos encantados de que formes parte de nuestro equipo . ¿Cuáles son los skills que buscamos para forjar nuestro equipo?
 
  - No te preocupes si no sabes de Blockchain. Te enseñamos lo que sabemos y aprenderemos juntos.  Si ya tienes conocimientos, será un plus. Ethereum, Quorum o Hyperledger, será nuestra base
  - Mínimo 7 años de experiencia en desarrollo en tecnologías Backend. Cuáles? Go, Java, Scala, Groovy principalmente. Otras tambien son bienvenidas
