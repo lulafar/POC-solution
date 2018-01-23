@@ -22,7 +22,8 @@ Si al leer todas estas preguntas,  te has contestado que sí, estaríamos encant
 
  - No te preocupes si no sabes de Blockchain. Te enseñamos lo que sabemos y aprenderemos juntos.  Si ya tienes conocimientos, será un plus. Ethereum, Quorum o Hyperledger, será nuestra base
  - Mínimo 7 años de experiencia en desarrollo en tecnologías Backend. Cuáles? Go, Groovy y Java principalmente. Otras también son bienvenidas
- - Experiencia en diseño y desarrollo de arquitecturas complejas, integración de sistemas
+ - Experiencia en diseño y desarrollo de arquitecturas complejas, integración de sistemas  
+ - Experiencia en desarrollo con bases de datos relacionales y no relacionales
  - Nos interesa mucho tu conocimiento y más aún tu capacidad. Tecnologías hay miles... tu manera de usarlas y afrontar los desafíos, será lo que nos ayude a conseguir nuestra metas. Buscamos el balance ideal entre aptitud y actitud
  
  Los anteriores son los requirimientos base y suficientes. Si además. nos traes a bordo algunos de los que se citan a continuación, nos vendría genial:
@@ -36,6 +37,7 @@ Si al leer todas estas preguntas,  te has contestado que sí, estaríamos encant
 - El desarrollo front no es un misterio para ti, React, Angular o Vue.js están en tu toolchain
 - ERC-20, ERC-777, POS, POW, Casper sabes que no es de star wars etc
 
+
 Ya sabes lo que buscamos. Esto es lo que te ofrecemos:
 
 - Trabajar en Madrid
@@ -48,6 +50,16 @@ Ya sabes lo que buscamos. Esto es lo que te ofrecemos:
 - Plan de incentivos ( según perfil )
 - 2 días + presupuesto para asistir a conferencias
 - 22 días laborables de vacaciones
+
+Estas serán tu responsabilidades:
+
+- Definición, diseño e implementación de arquitecturas blockchain híbridas, front + microservicios + redes privadas blockchain + BBDD ( relacionales y no relaciones)
+- Desarrollo de smart Contracts (solidity, chaincode...)
+- Desarrollo de microservicios en el lenguaje que se defina como equipo
+- Diseño de procesos de integración continua, delivery
+- Diseño del proceso ágil de desarrollo
+- En el caso de que sea viable, y quieras, desarrollo de frontends
+- Y sobre todo trabajo en equipo para conseguir los hitos de cada sprint
 
 
 Para terminar te contamos quiénes somos y cual es nuestra misión
