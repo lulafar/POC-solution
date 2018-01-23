@@ -8,7 +8,7 @@
 
 ¿Estas buscando un proyecto donde poder aportar todo tu potencial, crear equipo donde todos cuentan,  donde el feedback es continuo, en el cual experimentamos y aprendemos juntos, en el cual puedes formar parte de una **cultura basada en principios y valores**, buenas prácticas, **mejora continua** (lean, agile), aportando todos tus conocimientos y valía?
 
-¿Eres de los que no se guían por el hype, y **buscas la tecnología que mejor encaje com la necesidad de negocio**? ¿Crees que entender e implicarte en el negocio, definiendo un lenguaje ubiquo que todos entendamos, explorando el dominio juntos en detalle, es la base para poder desarrollar la necesidades reales del negocio?
+¿Eres de los que **buscas la tecnología que mejor encaje com la necesidad de negocio**? ¿Crees que entender e implicarte en el negocio, definiendo un lenguaje ubiquo que todos entendamos, explorando el dominio juntos en detalle, es la base para poder desarrollar la necesidades reales del negocio?
 
 ¿Sabes buscar, tienes, el equilibrio adecuado entre negocio y tecnología a la hora de afrontar las soluciones?¿Monolito para ti no es algo negativo, si las responsabilidades,  y los conceptos están claramente divididos?
 ¿Entiendes qué es un MVP, prototipo, y sabes tomar decisiones técnicas en su debido momento cuando tengas la información necesaria? ¿No usas un bola de cristal, si no tus propias heurísticas, y sabes vivir con incertidumbre?
