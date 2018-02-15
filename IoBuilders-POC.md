@@ -18,6 +18,8 @@ To be able to build this functionality, the following puzzle pieces need to be b
 
 ## POC Exercise 1
 
+###Tech + Architecture
+
 Based on this scenario, we need to decide:
 * Tech risks, to decide how to tackle them, based on the priorities we identify. To decide about the overall risks  we need to think about the team skills, POC complexity, and key components too.
 *  Technologies. architectures to be used, on every single component based on the following context:
@@ -31,7 +33,7 @@ Based on this scenario, we need to decide:
 
 **(1) What are your thoughts, ideas about tech, architecture with this context?**
 
-Team
+### Team
 * We need to be build a team to develop the hypothetical POC. Which skills, roles and team size, you think is needed, based on the following details:
 
   * Timing for the POC is 4 months
@@ -46,5 +48,7 @@ Team
   * Listen to others before arguing. Empathy!
   * Continuoys improvement must be tattooed on every single member's body :)
   * We are building POC's to test business scenarios and then the based on tje insights, decide if it makes sense to create a venture.
+
+###Culture
 
 **(3) Go into the details, about which tech/business methodologies you think fit best to the scenario, tools,etc, and the culture you like and makes sense to apply on this company**
