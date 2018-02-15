@@ -52,4 +52,4 @@ Based on this scenario, we need to decide:
   * We are building POC's to test business scenarios and then the based on tje insights, decide if it makes sense to create a venture.
 
 
-**(3) Go into the details, about which tech/business methodologies you think fit best to the scenario, tools,etc, and the culture you like and makes sense to apply on this company**
+**(3) Go into the details, about which tech/business methodologies, tools, etc you think fit best to the scenario, and the culture you like and makes sense to apply on this company**
