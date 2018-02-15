@@ -6,7 +6,7 @@ To be able to build this functionality, the following puzzle pieces need to be b
 
 * Mobile App. The end user will us a mobile based wallet, where he can
   * Create an identity, via a Self sovereign Identity implementation  
-  * Pass the wallet KYC, attesting his official id on the platform ( id scan )
+  * Pass the wallet KYC, attesting his official id on the platform (id scan)
   * Operate with the wallet: topup, transer, withdraw, buy ....
   * App Services. There will be several components ( backend services), that will support the mobile features and business flow
 * Tokens, identity and wallet will be based on ethereum ( or Quorum)
@@ -45,14 +45,19 @@ Technologies. architectures to be used on every single component, need to be def
 
 ### Culture
 
-* The tech culture, methodologies that will be part of the ADN of the company, are going to be shaped during this project. Which is your proposal, personal point of view, to have a common sense culture, methodologies, mindset, knowing the context, business needs, and a usual venture builder operation. Some base concepts that are a must:
+* The tech culture, methodologies that will be part of the ADN of the company, are going to be shaped during this project. Which is your proposal, personal point of view, to have a common sense culture, methodologies, mindset, knowing the context, business needs, and a usual venture builder operation? Some base concepts that are a must:
 
   * Multifunctional, autonomous and business oriented teams is the base line. The business domain is the centre
   * Everybody counts, and is able to propose things, and communication is key
   * Listen to others before arguing. Empathy!
   * Continuous improvement must be tattooed on every single member's body :)
-  * We are building POC's to test business scenarios and then the based on te insights, decide if it makes sense to create a venture.
+  * We are building POC's to test business scenarios and then based on the insights, decide if it makes sense to create a venture or not.
 
 
 **(3) Go into the details, about which tech/business methodologies, tools, etc..., you think fit best to the scenario, and the culture you like and makes sense to apply on this company**
+
+To deliver the answers to this questions, create a pull request on the following project, with a markdown file, containing your reviews.
+
+
+
 
