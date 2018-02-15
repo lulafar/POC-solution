@@ -18,7 +18,7 @@ To be able to build this functionality, the following puzzle pieces need to be b
 
 ## POC Exercise 1
 
-###Tech + Architecture
+### Tech + Architecture
 
 Based on this scenario, we need to decide:
 * Tech risks, to decide how to tackle them, based on the priorities we identify. To decide about the overall risks  we need to think about the team skills, POC complexity, and key components too.
@@ -49,6 +49,6 @@ Based on this scenario, we need to decide:
   * Continuoys improvement must be tattooed on every single member's body :)
   * We are building POC's to test business scenarios and then the based on tje insights, decide if it makes sense to create a venture.
 
-###Culture
+### Culture
 
 **(3) Go into the details, about which tech/business methodologies you think fit best to the scenario, tools,etc, and the culture you like and makes sense to apply on this company**
