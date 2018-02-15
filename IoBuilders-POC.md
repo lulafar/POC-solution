@@ -41,7 +41,7 @@ Technologies. architectures to be used on every single component, need to be def
   * Timing for the POC is 4 months
   * This project will be, a base component for the company
 
-**(2) Describe the skills, roles and team size, that you think is the best fit for this project. **
+**(2) Describe the skills, roles and team size, that you think is the best fit for this project.**
 
 ### Culture
 
