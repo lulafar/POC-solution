@@ -37,7 +37,7 @@ Team
   * Timing for the POC is 4 months
   * This project will be a base component for the company
 
-**(2) Describe the skills, roles and team size, that you think is the best fit for this project. 
+**(2) Describe the skills, roles and team size, that you think is the best fit for this project. **
 
 * The tech culture, methodologies that will be part of the ADN of the company,  are going to be shaped during this project. Which is your proposal, personal point of view, to have a common sense culture, methodologies, mindset, knowing the context, business needs, and a usual venture builder operation. Some base concepts that are a must:
 
@@ -47,4 +47,4 @@ Team
   * Continuoys improvement must be tattooed on every single member's body :)
   * We are building POC's to test business scenarios and then the based on tje insights, decide if it makes sense to create a venture.
 
-**(3) Go into the details, about which tech/business methodologies you think fit best to the scenario, tools,etc, and the culture you like and makes sense to apply on this company
+**(3) Go into the details, about which tech/business methodologies you think fit best to the scenario, tools,etc, and the culture you like and makes sense to apply on this company**
