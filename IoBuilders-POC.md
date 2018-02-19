@@ -7,7 +7,7 @@ To be able to build this functionality, the following puzzle pieces need to be b
 * Mobile App. The end user will us a mobile based wallet, where he can
   * Create an identity, via a Self sovereign Identity implementation  
   * Pass the wallet KYC, attesting his official id on the platform (id scan)
-  * Operate with the wallet: topup, transer, withdraw, buy ....
+  * Operate with the wallet: topup, transfer, withdraw, buy ....
   * App Services. There will be several components ( backend services), that will support the mobile features and business flow
 * Tokens, identity and wallet will be based on ethereum ( or Quorum)
 * To be able to operate on the banking system, and work with e-money we need an e-money  License (already provided), an acquirer (momopocket) and banking tech (inversis). We will attach to the ethaccount, an IBAN, being able somehow, to be white label bank. That allows us:
